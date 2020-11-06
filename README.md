@@ -9,6 +9,7 @@ Bài toán này phục vụ việc phân tích lưu lượng xe trên các tuy�
 <img src="http://aichallenge.hochiminhcity.gov.vn/documents/20142/47727/vd1.png/3098929e-04f7-49f0-18b6-c3f51f34a0f2?t=1594440821002">
 
 Hình ảnh minh họa 1 đoạn video từ camera giao thông kèm theo các hướng di chuyển MOI (Motion of Interest) của phương tiện và vùng đếm ROI (Region of Interest)
+
 Source: [AI Challenge](http://aichallenge.hochiminhcity.gov.vn/huong-dan-nhom-1)
 
 ### 2.Nhóm thực hiện
@@ -19,7 +20,7 @@ Nhóm gồm các thành viên:
 | ------ | ------ |
 | Nguyễn Hữu Doanh | [Github](https://github.com/huudoanh123qn) |
 | Nguyễn Minh Châu | [Github](https://github.com/chauminhnguyen) |
-| Nguyễn Huỳnh Anh | Github |
+| Nguyễn Huỳnh Anh | [Github](https://github.com/anhhuynh1506) |
 | Tô Viết Anh | [Github](https://github.com/anhtv26062000) |
 
 ### 3.Kĩ thuật
