@@ -27,7 +27,7 @@ Nhóm gồm các thành viên:
 
 Bài báo cáo giới thiệu về các kĩ thuật được trình bày chi tiết ở file [Summary_team089.docx](Summary_team089.docx)
 
-## 4.Chạy chương trình
+### 4.Chạy chương trình
 
 Link models:
 https://drive.google.com/drive/folders/1-uo8GWvDq9Kah8X0yaWk659bhCZRDEHb?usp=sharing
