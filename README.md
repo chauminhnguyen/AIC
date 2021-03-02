@@ -6,7 +6,7 @@ Trong cuộc thi này, đội dự thi sẽ đếm số lượng xe theo mỗi l
 
 Bài toán này phục vụ việc phân tích lưu lượng xe trên các tuyến đường, từ đó hỗ trợ việc đề xuất và thiết kế các giải pháp nhằm giảm tắc nghẽn giao thông.
 
-<img src="http://aichallenge.hochiminhcity.gov.vn/documents/20142/47727/vd1.png/3098929e-04f7-49f0-18b6-c3f51f34a0f2?t=1594440821002">
+<img src="vd1.png">
 
 Hình ảnh minh họa 1 đoạn video từ camera giao thông kèm theo các hướng di chuyển MOI (Motion of Interest) của phương tiện và vùng đếm ROI (Region of Interest)
 
